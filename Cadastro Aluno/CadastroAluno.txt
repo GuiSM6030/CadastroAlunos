@@ -1,0 +1,2 @@
+Aluno, Nome = Alfredonho, CPF = 2, Curso = 2, Endereço= 2,  2, 2, 2, 2, 2
+Aluno, Nome = 4, CPF = 4, Curso = 4, Endereço= 4,  4, 4, 4, 4, 4
